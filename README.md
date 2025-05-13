@@ -2,6 +2,7 @@ Ames Housing Price Prediction
 📊 Advanced Regression Modeling on Real Estate Data
 
 This project builds predictive models to estimate house sale prices in Ames, Iowa using the well-known Ames Housing dataset. It involves feature engineering, data preprocessing, multicollinearity checks, and applying advanced regression models to optimize prediction performance.
+
 📌 Project Highlights
 
     ✅ Cleaned and preprocessed 80+ features from the housing dataset
@@ -14,6 +15,7 @@ This project builds predictive models to estimate house sale prices in Ames, Iow
 
     📊 Visualized residuals, feature importance, and predictions
 
+
 🧰 Tech Stack
 
     Python, Pandas, NumPy
@@ -21,6 +23,7 @@ This project builds predictive models to estimate house sale prices in Ames, Iow
     Scikit-learn, XGBoost, Seaborn, Matplotlib
 
     Jupyter Notebook
+
 
 ⚙️ How to Run
 
